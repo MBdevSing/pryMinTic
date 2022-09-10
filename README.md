@@ -1,0 +1,2 @@
+# pryMinTic
+Documentación de proyecto 
